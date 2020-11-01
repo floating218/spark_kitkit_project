@@ -2,13 +2,13 @@
 
 ## Kitkit School
 
-![img/rm1.png)
+<img src="img/rm1.png">
 
 "Kitkit School"은 스타트업 기업 "Enuma"에서 개발한 교육용 게임입니다. Enuma는 수학 교육용 게임인 "Todo 수학"이라는 앱으로도 알려져 있는 회사인데요, 이 회사에서 내놓은 "Kitkit School"이라는 게임은 초등학교 저학년 수준의 언어(영어), 수학을 학습할 수 있게 디자인된 게임입니다. 제가 속한 연구실에서는 Enuma와 함께 협업을 하였는데, 바로 이 "Kitkit School"로 수집한 로그 데이터를 처리하고 분석하는 일이었습니다. 
 
 ## Xprize
 
-![img/rm2.png)
+<img src="img/rm2.png">
 
 (c) Enuma
 
@@ -18,7 +18,7 @@ XPRIZE에서 우승을 차지한 "Kitkit Schhol"은 현재 깃허브에 그 소�
 
 ## 탄자니아 어린이들
 
-![img/rm3.png)
+<img src="img/rm3.png">
 
 (c) Enuma
 
